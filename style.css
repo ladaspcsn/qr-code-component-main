@@ -20,13 +20,13 @@ body {
 }
 
 main, img {
-  border-radius: 15px;
+  border-radius: 20px;
 }
 
 main {
   background-color: var(--white);
   max-width: 300px;
-  padding: 20px;
+  padding: 15px;
 }
 
 img {
